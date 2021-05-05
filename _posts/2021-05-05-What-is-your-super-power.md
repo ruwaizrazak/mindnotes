@@ -26,7 +26,6 @@ Now, some of you might ask that is that all you require? Just a *plan* to be a s
 
 ![6071b525dd77f0a814de23bf_qcmn5.jpg]({{site.baseurl}}/_posts/6071b525dd77f0a814de23bf_qcmn5.jpg)
 
-
 Alright, now things are coming into picture, when these guys face a situation, they try to adapt to the situation, plan accordingly and then use their learnings to execute the plan, and then learn from its outcomes and iterate again. Just like the way Mr.Tony Stark created his first suit, and then iterated and iterated till we saw the most formidable one he used in the last movie.
 
 
