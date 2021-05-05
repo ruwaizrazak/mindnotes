@@ -1,12 +1,12 @@
-site: Asko
+site: MindNotes
 url: https://ruwaizrazak.github.io/mindnotes/
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+title: Mindnotes
+description: Mindnotes is a collection of my thoughts and experiences.
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: @ruwaizrazak
   card: summary
-  creator: #yourusername
+  creator: @ruwaizrazak
 author:
   twitter: #yourusername
   name: #yourusername
