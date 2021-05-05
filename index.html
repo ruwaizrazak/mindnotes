@@ -4,22 +4,17 @@ layout: default
 
 <section id="intro">
     <div class="flex-row-between">
-        <h1>Hi 👋</h1>
+        <h1>Hi👋 This is mindnotes 📝 </h1>
         <button id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
     </div>
-    <p>Maecenas euismod, ante eu mollis tempus, justo tellus tempus dui, non suscipit tellus diam vel ipsum. Phasellus
-        euismod auctor <a href="#">condimentum</a>. Aenean at ex dolor. Praesent eget venenatis erat, sit amet cursus
-        nulla. Vestibulum
-        rutrum, turpis id aliquam sagittis.
+    <p>Mindnotes is a collection of articles which comprises of Ruwaiz Razak's thoughts and experiences. You can visit Ruwaiz's portfolio <a href="http://www.ruwaizrazak.com">here</a>.
     </p>
 </section>
 
 <section class="posts">
-    <h3>BLOG</h3>
-    <ul>
-        {% for post in site.posts %}
+    <h3>Entries %}
         <li>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></li>
