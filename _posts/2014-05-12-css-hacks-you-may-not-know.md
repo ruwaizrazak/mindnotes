@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The first one
-description: The first post
+description: >-
+  This is a collection of short CSS snippets I thought might be useful for
+  beginners
 summary: >-
   This is a collection of short CSS snippets I thought might be useful for
   beginners.
