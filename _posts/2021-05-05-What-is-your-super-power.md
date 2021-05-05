@@ -20,7 +20,7 @@ Now this is interesting, as I don’t have any of these abilities, does that mea
 
 Alright, now this is getting more exciting, as I found out that at least, Batman, Ironman and myself doesn’t have any superpowers by definition. But then what makes them superhuman? Or at least an extraordinary personnel? I believe it has something to do with their ability to adapt and plan according to the situation.
 
-![6071b51372cc43b18c80fe59_main-qimg-36622fc2d7098d40a29ae34ddb9db2e6.png](https://raw.githubusercontent.com/ruwaizrazak/mindnotes/036f158c60d74ddb46056105bd5114cd8f074d39/_posts/6071b525dd77f0a814de23bf_qcmn5.jpg)
+![]({{site.baseurl}}/https://github.com/ruwaizrazak/mindnotes/blob/gh-pages/_posts/6071b525dd77f0a814de23bf_qcmn5.jpg?raw=true)
 
 Now, some of you might ask that is that all you require? Just a *plan* to be a superhero? No, If we look into these two aforementioned characters, you would come to know that, while they are good at planning, they are also great at learning.
 
