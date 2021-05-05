@@ -1,5 +1,14 @@
 ---
 published: true
+layout: post
+description: >-
+  This is a collection of short CSS snippets I thought might be useful for
+  beginners
+summary: >-
+  This is a collection of short CSS snippets I thought might be useful for
+  beginners.
+tags:
+  - self help
 ---
 “What is your super power?” This is a question I faced during a conversation I had this week, and I was kind of confused, and I really didn’t know what to reply as well.
 
