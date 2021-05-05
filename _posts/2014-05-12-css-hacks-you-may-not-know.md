@@ -1,14 +1,12 @@
 ---
 layout: post
 title: The first one
-description: >-
-  This is a collection of short CSS snippets I thought might be useful for
-  beginners
+description: The first post
 summary: >-
   This is a collection of short CSS snippets I thought might be useful for
   beginners.
 tags:
-  - css
+  - post
 published: true
 ---
 Alright, This is a beginning. Actually, I should not say that this is a beginning, but this is more of a reincarnation of my first blog, which is still alive in Blogger.
