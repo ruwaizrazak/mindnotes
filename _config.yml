@@ -1,5 +1,5 @@
 site: MindNotes
-url: https://ruwaizrazak.github.io/mindnotes/
+url: https://ruwaizrazak.github.io/mindnotes
 title: Mindnotes
 description: Mindnotes is a collection of my thoughts and experiences.
 googlewebfonts: Fira+Code:wght@400;500;700
@@ -15,7 +15,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "https://ruwaizrazak.github.io/mindnotes/"
+baseurl: "https://ruwaizrazak.github.io/mindnotes"
 
 highlighter: rouge
 
