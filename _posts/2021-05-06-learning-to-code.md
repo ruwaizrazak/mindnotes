@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # What Nobody Tells You About Learning To Code — And Why That Makes It So Hard
 
