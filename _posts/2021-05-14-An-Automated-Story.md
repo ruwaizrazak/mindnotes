@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I once read quote which says “Be the lazy guy in the room so that you might find easy ways to do the tasks in a legitimate way”. 
 
@@ -34,5 +34,3 @@ Linux, The brother from the same mother (Unix), is the captain Rogers. You can m
 Please identify yourself.
 
 Thank you.
-
-
