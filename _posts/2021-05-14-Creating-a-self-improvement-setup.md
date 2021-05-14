@@ -16,6 +16,7 @@ I wanted to move away from Bear as a my notes repository, tried different softwa
 As a starter, I cloned Thomas Frank’s note taking systems and used his Apple shortcuts recipe to overcome the loading time of Notion.
 
 [Thomas Frank - Shortcuts](https://thomasjfrank.com/shortcuts/)
+
 [Thomas Frank - Note taking system](https://thomasjfrank.com/notion-note-taking-system/)
 
 
