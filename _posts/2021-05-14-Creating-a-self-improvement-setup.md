@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I’ve been trying to figure out a system which would allow me to optimise my works and improvise my self as a person.
